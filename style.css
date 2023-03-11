@@ -422,7 +422,7 @@ form textarea {
 
   main {
     margin-top: 75px;
-    padding: 219px 271px 0 181px;
+    padding: 80px 171px 0 181px;
     background-image: url("./images/desktop-header-bg.png");
     background-position-x: center;
     height: 100vh;
@@ -583,7 +583,7 @@ form textarea {
   }
 
   main {
-    padding: 219px 271px 0 181px;
+    padding: 107px 171px 0 100px;
   }
 
   .all-project-section {
